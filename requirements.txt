@@ -1,0 +1,10 @@
+
+
+
+```txt
+torch
+torchvision
+opencv-python
+onnx
+onnxruntime
+onnxoptimizer
